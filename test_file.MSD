@@ -1,0 +1,15 @@
+o1=0
+o2=0
+o3=0
+n1=2000
+n2=2000
+n3=2000
+d1=1
+d2=1
+d3=1
+p1=1
+p2=2000
+p3=2000
+prefix=test_data
+suffix=.bin
+dir=localhost C:/DATA

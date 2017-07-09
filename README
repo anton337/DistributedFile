@@ -1,3 +1,5 @@
-Distributed file system.
+Distributed file.
+You can specify nfs mounted directories in the input file.
+The data will be partitioned into many small tiles. Files associated with each tile will be equally spread across all the specified directories.
 You may need to get Dave Hales Segy code, if you want to use the Segy loading functionality.
 
